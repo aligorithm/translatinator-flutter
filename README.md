@@ -2,6 +2,7 @@
 ==========================
 
 A simple Flutter app that provides a user-friendly interface for translating text using the Translatinator API.
+![image](https://github.com/user-attachments/assets/b61c7bcf-96f0-4ffb-9737-05e5c6330957)
 
 **Features**
 
