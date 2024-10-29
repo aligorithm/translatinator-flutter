@@ -32,18 +32,6 @@ Open the app and follow these steps:
 2. Enter your chosen language
 3. Tap the "Translate" button to get the translation
 
-**Supported Languages**
-----------------------
-
-The following languages are currently supported for English-to-other-language translations:
-
-* Spanish (`es`)
-* French (`fr`)
-* German (`de`)
-* Italian (`it`)
-
-Feel free to add more languages by modifying the `translatinator_api.dart` file.
-
 **API Documentation**
 ---------------------
 
@@ -55,5 +43,3 @@ For detailed API documentation, see the [Translatinator Backend Server](https://
 Pull requests and issues welcome!
 
 Note: The app uses the Translatinator API to get translations. Make sure to have a backend server running before trying out the app.
-
-I hope this helps! Let me know if you have any questions or need further assistance.
